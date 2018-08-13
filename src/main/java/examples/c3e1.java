@@ -1,3 +1,5 @@
+package examples;
+
 import java.util.stream.Stream;
 
 //Функция сложения чисел

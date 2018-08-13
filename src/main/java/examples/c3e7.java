@@ -1,3 +1,5 @@
+package examples;
+
 import java.util.*;
 
 public class c3e7 {

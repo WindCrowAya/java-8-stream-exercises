@@ -1,7 +1,9 @@
+package examples;
+
 public class c3e6 {
     static long countOfLetters(String s) {
         return s.chars()
-//                .filter(Character::isLetter)     //в ответах этого не было, значит он не нужен?
+//                .filter(Character::isLetter)     //в ответах этого не было, видимо он не нужен
                 .filter(Character::isLowerCase)
                 .count();
     }
